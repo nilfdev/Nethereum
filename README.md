@@ -8,7 +8,7 @@ Azure DevOps CI Code Gen: [![CI Code gen Build / Test Status](https://dev.azure.
 CI dev packages: [![MyGet Pre Release](https://img.shields.io/myget/nethereum/vpre/nethereum.web3.svg?style=plastic)](https://www.myget.org/feed/nethereum/package/nuget/Nethereum.Web3)
 
 
-# What is Nethereum ?
+# What is Nethereum?
 
 Nethereum is the .Net integration library for Ethereum, simplifying the access and smart contract interaction with Ethereum nodes both public or permissioned like Geth, [Parity](https://www.parity.io/) or [Quorum](https://www.jpmorgan.com/global/Quorum).
 
